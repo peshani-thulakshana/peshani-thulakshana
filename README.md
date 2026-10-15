@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Peshani Thulakshana 👋
 
-<!--
-**peshani-thulakshana/peshani-thulakshana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### HNDIT Student | Aspiring Frontend Developer
 
-Here are some ideas to get you started:
+I'm an IT student at Kegalle ATI who enjoys designing and developing websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About Me
+- 🎓 Studying HNDIT at Kegalle ATI
+- 💻 Interested in Frontend Development and UI Design
+- 🌱 Improving my programming and web development skills
+- 🚀 Building projects to gain practical experience
+
+### 🛠️ Skills & Technologies
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Git & GitHub
+
+### 📌 Projects
+- **YumYard Restaurant** — Restaurant food ordering web application
+
+### 🎯 Career Goal
+To become a skilled Frontend Developer and gain practical industry experience.
+
+### 📫 Connect with Me
+- GitHub: [My Profile](https://github.com/peshani-thulakshana)
