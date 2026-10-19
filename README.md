@@ -19,7 +19,7 @@ I'm an IT student at Kegalle ATI who enjoys designing and developing websites.
 - Git & GitHub
 
 ### 📌 Projects
-- **YumYard Restaurant** — Restaurant food ordering web application
+- **YumYard Restaurant** — Restaurant food ordering e-commerce website
 
 ### 🎯 Career Goal
 To become a skilled Frontend Developer and gain practical industry experience.
